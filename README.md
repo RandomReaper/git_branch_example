@@ -12,8 +12,9 @@
 
 * 3 septembre
 
-  Toujours beau et sec.
-
+  Beau et sec, assez chaud.
 
 * 5 Septembre
+
   33°
+>>>>>>> alice
