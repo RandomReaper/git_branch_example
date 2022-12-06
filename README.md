@@ -8,7 +8,7 @@
 
 * 2 septembre
   Beau et sec, mais plutôt frais.
-  
+
 * 3 septembre
 
   Toujours beau et sec.
